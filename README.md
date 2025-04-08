@@ -1,6 +1,8 @@
 ### Abandon hope all ye who enter here ✨
 
-Hi! I'm Benjamin. Second–year undergraduate student at Purdue University.
+Hi! I'm Benjamin. 
+
+Second–year undergraduate student at Purdue University.
 
 ### Snooping around?
 
