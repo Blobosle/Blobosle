@@ -1,6 +1,10 @@
 ### Abandon hope all ye who enter here ✨
 
-👋 Hi! I'm Benjamin. Second–year undergraduate student at Purdue University.
+Hi! I'm Benjamin. Second–year undergraduate student at Purdue University.
+
+### Snooping around?
+
+Welp good luck with that 🥴
 
 <!--
 **Blobosle/Blobosle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
