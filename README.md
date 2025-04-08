@@ -1,9 +1,9 @@
-### Abandon hope all ye who enter here ✨
+### abandon hope all ye who enter here ✨
 
 Hi! I'm Benjamin. 
 A second year undergraduate student at Purdue University.
 
-### Snooping around?
+### snooping around?
 
 Welp good luck with that 🥴.
 
