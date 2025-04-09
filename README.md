@@ -1,4 +1,4 @@
-### abandon hope all ye who enter here ✨
+### abandon all hope ye who enter here ✨
 
 Hi! I'm Benjamin. 
 A second year undergraduate student at Purdue University.
