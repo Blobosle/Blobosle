@@ -1,6 +1,6 @@
 ### abandon all hope ye who enter here ✨
 
-Hi! I'm Benjamin. 
+Hi! I'm Benja. 
 A second year undergraduate student at Purdue University.
 
 ### snooping around?
