@@ -1,11 +1,14 @@
-### abandon all hope ye who enter here ✨
+### losses borne by all must be compensated by all ✨
 
 Hi! I'm Benja. 
-A second year undergraduate student at Purdue University.
+A rising third-year undergraduate student at [Purdue University](https://www.purdue.edu/).
 
 ### snooping around?
 
 Welp good luck with that 🥴.
+
+- Take a look at my [website](https://blobosle.com/showcase/) for more info about me.
+- Look at my repositories to see some of my projects.
 
 <!--
 **Blobosle/Blobosle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
