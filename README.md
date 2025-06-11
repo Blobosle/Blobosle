@@ -1,4 +1,4 @@
-### risks borne by all must be shouldered by all &nbsp; 𐄷
+### risks borne by all must be shouldered by all &nbsp;𐄷
 
 Hi! I'm Benja. 
 A rising third-year undergraduate student at [Purdue University](https://www.purdue.edu/).
