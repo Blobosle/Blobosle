@@ -9,3 +9,5 @@ Welp good luck with that 🥴.
 
 - Take a look at my [website](https://blobosle.com/showcase/) for more info about me.
 - Look at my repositories to see some of my projects.
+
+[![Top Langs](https://private-languages.vercel.app/api/top-langs/?username=Blobosle&layout=compact&hide=SCSS,HTML,Makefile&card_width=400&theme=transparent&langs_count=9)](https://github.com/Blobosle/github-readme-stats)
